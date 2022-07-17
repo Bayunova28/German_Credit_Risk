@@ -1,5 +1,5 @@
 # German Credit Risk
-<img src="https://github.com/Bayunova28/German_Credit_Risk/blob/master/cover.png" height="400" width="1100">
+<img src="https://github.com/Bayunova28/German_Credit_Risk/blob/master/cover.png" height="350" width="1100">
 
 ## Context
 <p align=justify>The original dataset contains 1000 entries with 20 categorial/symbolic attributes prepared by Prof. Hofmann. In this dataset, each entry represents a 
