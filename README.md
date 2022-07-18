@@ -21,5 +21,8 @@ selected attributes are :</p>
 * `Duration : (numeric, in month)`
 * `Purpose : (text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others)`
 
+## Summary
+<img src="https://github.com/Bayunova28/German_Credit_Risk/blob/master/bayesian_network.png" height="600" width="1000">
+
 ## Acknowledgements
 Source : [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
